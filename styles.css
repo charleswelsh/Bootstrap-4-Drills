@@ -1,0 +1,34 @@
+body {
+    background-color: burlywood;
+}
+h1 {
+    color: saddlebrown;
+    font-weight: bolder;
+}
+h3 {
+    color: saddlebrown;
+    font-weight: bolder;
+}
+#body-header {
+    background-color: chocolate;
+    font-size: x-large;
+    font-weight: bolder;
+    color: saddlebrown;
+}
+#form {
+    background-color: saddlebrown;
+    color: orange;
+    font-weight: bolder;
+}
+#submit-button {
+    background-color: orange;
+    font-weight: bold;
+    color: saddlebrown;
+}
+.card-header {
+    background-color: chocolate;
+}
+.card {
+    background-color: orange;
+    color: saddlebrown;
+}
